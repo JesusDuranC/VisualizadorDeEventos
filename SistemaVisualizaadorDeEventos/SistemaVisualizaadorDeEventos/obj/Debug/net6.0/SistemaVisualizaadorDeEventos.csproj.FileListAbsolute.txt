@@ -1,0 +1,15 @@
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\SistemaVisualizaadorDeEventos.csproj.AssemblyReference.cache
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\SistemaVisualizaadorDeEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\SistemaVisualizaadorDeEventos.AssemblyInfoInputs.cache
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\SistemaVisualizaadorDeEventos.AssemblyInfo.cs
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\SistemaVisualizaadorDeEventos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\bin\Debug\net6.0\SistemaVisualizaadorDeEventos.exe
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\bin\Debug\net6.0\SistemaVisualizaadorDeEventos.deps.json
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\bin\Debug\net6.0\SistemaVisualizaadorDeEventos.runtimeconfig.json
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\bin\Debug\net6.0\SistemaVisualizaadorDeEventos.dll
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\bin\Debug\net6.0\ref\SistemaVisualizaadorDeEventos.dll
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\bin\Debug\net6.0\SistemaVisualizaadorDeEventos.pdb
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\SistemaVisualizaadorDeEventos.dll
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\ref\SistemaVisualizaadorDeEventos.dll
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\SistemaVisualizaadorDeEventos.pdb
+C:\Users\Jesus Duran\source\repos\SistemaVisualizaadorDeEventos\SistemaVisualizaadorDeEventos\obj\Debug\net6.0\SistemaVisualizaadorDeEventos.genruntimeconfig.cache
